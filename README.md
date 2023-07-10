@@ -1,8 +1,8 @@
-#Controle de Estoque de Bicicletaria 🚲
+# Controle de Estoque de Bicicletaria 🚲
 
 Este repositório contém um programa Python para controle de estoque de uma bicicletaria. O programa oferece um menu com opções para cadastrar, consultar e remover peças do estoque.
 
-##Funcionalidades
+## Funcionalidades
 O programa possui as seguintes funcionalidades:
 
 Cadastrar Peça: Permite cadastrar uma nova peça no estoque. O usuário deve informar o código exclusivo da peça, nome, fabricante e valor.
@@ -17,7 +17,7 @@ Remover Peça: Permite remover uma peça do estoque. O usuário deve informar o 
 
 Sair: Encerra o programa.
 
-##Exemplo de Saída do Console
+## Exemplo de Saída do Console
 
 Aqui estão alguns exemplos de saída do console com base nas funcionalidades do programa:
 
@@ -42,7 +42,7 @@ Fabricante: Shimano
 Valor: R$ 120.00
 
 
-##Exemplo de consulta de todas as peças cadastradas:
+## Exemplo de consulta de todas as peças cadastradas:
 
 Consultar Peça:
 1) Consultar Todas as Peças
@@ -58,7 +58,7 @@ Código: 2, Nome: Pneu, Fabricante: Continental, Valor: R$ 80.00
 Código: 3, Nome: Guidão, Fabricante: Shimano, Valor: R$ 120.00
 
 
-##Exemplo de consulta por código:
+## Exemplo de consulta por código:
 
 Consultar Peça:
 1) Consultar Todas as Peças
@@ -74,7 +74,7 @@ Peça encontrada:
 Código: 2, Nome: Pneu, Fabricante: Continental, Valor: R$ 80.00
 
 
-##Exemplo de consulta por fabricante:
+## Exemplo de consulta por fabricante:
 
 Consultar Peça:
 1) Consultar Todas as Peças
@@ -91,7 +91,7 @@ Código: 1, Nome: Pedal, Fabricante: Shimano, Valor: R$ 50.00
 Código: 3, Nome: Guidão, Fabricante: Shimano, Valor: R$ 120.00
 
 
-##Exemplo de remoção de peça:
+## Exemplo de remoção de peça:
 
 Remover Peça:
 Digite o código da peça que deseja remover: 1
